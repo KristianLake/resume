@@ -177,10 +177,23 @@ section.resume-section .resume-item .resume-date {
   color: #2072F5 !important;
 }
 
+.text-dates {
+  color: #495057 !important;
+}
+
 a {
   color: #2072F5;
 }
 
 a:hover, a:focus, a:active {
   color: #824027;
+}
+
+.text-small-labels {
+  font-size: 1rem;
+  text-align: center;
+}
+
+.icons {
+  text-align: center;
 }
